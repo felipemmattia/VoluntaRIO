@@ -1,0 +1,1 @@
+ALTER TABLE enrollments ADD COLUMN promotionExpiresAt TIMESTAMP NULL DEFAULT NULL;
